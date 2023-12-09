@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Rántott Hús",
+    "ingredients": [
+      "sertéshús",
+      "liszt",
+      "tojás",
+      "kenyérmorzsa"
+    ],
+    "instructions": "A húst lisztbe, tojásba, majd kenyérmorzsába mártjuk, és forró olajban kisütjük.",
+    "image": "https://www.mindmegette.hu/images/327/O/rantott-hus-2.jpg"
+  },
+  {
+    "title": "Gulyásleves",
+    "ingredients": [
+      "marhahús",
+      "hagyma",
+      "paprika",
+      "burgonya"
+    ],
+    "instructions": "A hagymát megpároljuk, hozzáadjuk a húst és a paprikát, majd felöntjük vízzel. A végén hozzáadjuk a burgonyát.",
+    "image": "https://www.mindmegette.hu/images/373/O/221019-11-kz.jpg"
+  },
+  {
+    "title": "Túrós Csusza",
+    "ingredients": [
+      "tészta",
+      "túró",
+      "tejföl",
+      "szalonna"
+    ],
+    "instructions": "A tésztát kifőzzük, hozzáadjuk a túrót, majd tejföllel és pirított szalonnával tálaljuk.",
+    "image": "https://www.mindmegette.hu/images/395/S/lead_S_sutoben-sult-turos-csusza.jpg"
+  },
+  {
+    "title": "Lecsó",
+    "ingredients": [
+      "paradicsom",
+      "paprika",
+      "kolbász",
+      "hagyma"
+    ],
+    "instructions": "A hagymát üvegesre pároljuk, hozzáadjuk a felkockázott paprikát, paradicsomot, és a vékony szeletekre vágott kolbászt. Lassú tűzön főzzük.",
+    "image": "https://www.mindmegette.hu/images/338/O/lecso-20170818183508.jpg"
+  },
+  {
+    "title": "Halászlé",
+    "ingredients": [
+      "halfilé",
+      "hagyma",
+      "paprika",
+      "bor",
+      "paprika"
+    ],
+    "instructions": "A hagymát megpároljuk, hozzáadjuk a halat, paprikát, borral felöntjük, majd fűszerezzük.",
+    "image": "https://www.mindmegette.hu/images/202/S/lead_S_crop_201709141707_tiszai-halaszle2.jpg"
+  },
+  {
+    "title": "Palacsinta",
+    "ingredients": [
+      "liszt",
+      "tojás",
+      "tej",
+      "cukor"
+    ],
+    "instructions": "A hozzávalókat összekeverjük, vékony palacsintát sütünk, és ízlés szerint töltjük.",
+    "image": "https://www.mindmegette.hu/images/130/O/palacsinta_1.jpg"
+  },
+  {
+    "title": "Rakott Krumpli",
+    "ingredients": [
+      "krumpli",
+      "tejföl",
+      "sajt",
+      "kolbász"
+    ],
+    "instructions": "A krumplit megfőzzük, szeletekre vágjuk. Rétegezve rakjuk egy tálba tejföllel, sajttal és kolbásszal. Sütőben megsütjük.",
+    "image": "https://www.mindmegette.hu/images/357/O/daralt-husos-rakott-krumpli.jpg"
+  },
+  {
+    "title": "Tojásos Nokedli",
+    "ingredients": [
+      "liszt",
+      "tojás",
+      "tej",
+      "só"
+    ],
+    "instructions": "A tésztát készítjük, majd forró vízbe szaggatjuk. Amikor feljön a víz tetejére, leszűrjük, és tojással összekeverjük.",
+    "image": "https://www.mindmegette.hu/images/325/O/galuska.jpg"
+  },
+  {
+    "title": "Sült Kolbász",
+    "ingredients": [
+      "kolbász",
+      "mustár",
+      "kenyér"
+    ],
+    "instructions": "A kolbászt sütőben vagy serpenyőben megsütjük, majd kenyérrel és mustárral tálaljuk.",
+    "image": "https://www.mindmegette.hu/images/167/S/lead_S_crop_201610031056_Sult-kolbasz-sutotokkel-zsalyaval-(3).JPG"
+  },
+  {
+    "title": "Kakaós Csiga",
+    "ingredients": [
+      "liszt",
+      "cukor",
+      "kakópor",
+      "vaj"
+    ],
+    "instructions": "A tésztát készítjük, kinyújtjuk, megszórjuk cukorral, kakaóporral, vajjal, majd feltekerjük és szeletekre vágjuk. Sütőben megsütjük.",
+    "image": "https://www.mindmegette.hu/images/334/O/glutenfreecsiga_v2.jpg"
+  }
+]

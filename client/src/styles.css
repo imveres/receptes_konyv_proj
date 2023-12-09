@@ -1,0 +1,47 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+:root {
+    --primary-color: #8B635C;
+    --secondary-color: #2c3131;
+    --accent-color: #d6b06e;
+    --highlight-color: #FCDFA6;
+    --card-color: #EBD8B6;
+  }
+  
+  body {
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+  }
+  
+  header {
+    background-color: var(--accent-color);
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--accent-color);
+  }
+  
+  a {
+    color: var(--highlight-color);
+  }
+  
+  a:hover {
+    background-color: var(--secondary-color);
+  }
+  
+  button {
+    background-color: var(--highlight-color);
+    border-color: var(--highlight-color);
+    color: var(--secondary-color);
+  }
+  
+  button:hover {
+    background-color: var(--accent-color);
+    border-color: var(--accent-color);
+  }
+
+  .text-glow {
+    text-shadow: 0 0 40px rgba(255, 255, 255, 1);
+  }
