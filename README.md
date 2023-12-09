@@ -17,11 +17,5 @@ Server is running on port 3000
 npm run dev
 =====================
 \receptes-konyv\client> npm run dev
-
-  VITE v4.5.0  ready in 0 ms
-
-  ➜  Local:   http://localhost:0000/
-  ➜  Network: use --host to expose
-  ➜  press h to show help
 =====================
 
